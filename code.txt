@@ -1,2 +1,2 @@
-hello word
-hello bao dep trai
+helo world 
+xin chao hoang phuc
